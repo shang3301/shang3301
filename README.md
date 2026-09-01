@@ -1,7 +1,7 @@
 
 ![wavestop](https://github.com/user-attachments/assets/0726f670-c5f9-4b41-8e9e-2fca33d71e0c)
 
-<h1 align="center">Hi, I'm <a href="https://www.blackcater.win/" target="_blank">Satish</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi, I'm <a href="" target="_blank">Satish</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 ```javascript
 var satish = {
